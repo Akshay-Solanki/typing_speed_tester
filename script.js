@@ -20,6 +20,7 @@ function initiateTest(){
   speed.textContent = 0
   accuracy.textContent = 0
   typed.textContent = ''
+  typing.textContent = ''
   timerStarted = false;
   correctWord = 0;
   currentWord = [];
